@@ -3,7 +3,7 @@ options(repos="http://cloud.r-project.org/")
 options(download.file.method="internal") 
 install.packages("swirl",dependencies = T)
 
-##"swirl" can be changed to "RMySQL" or whatever. The effects are shown below.
+#"swirl" can be changed to "RMySQL" or whatever. The effects are shown below.
 
 
 将程序包安装入‘C:/Users/nasca/Documents/R/win-library/3.4’
