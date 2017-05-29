@@ -4,9 +4,9 @@ Input three lines of codes as shown below:
 
 options(repos="http://cloud.r-project.org/") 
 options(download.file.method="internal") 
-install.packages("swirl",dependencies = T)
+install.packages("RMySQL",dependencies = T)
 
-Notes: "swirl" can be changed to "RMySQL" or whatever. The effects are shown below.
+Notes: "RMySQL" can be replaced by "swirl" or whatever. The effects are shown below.
 
 
 将程序包安装入‘C:/Users/nasca/Documents/R/win-library/3.4’
