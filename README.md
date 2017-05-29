@@ -3,7 +3,9 @@
 Input three lines of codes as shown below:
 
 options(repos="http://cloud.r-project.org/") 
+
 options(download.file.method="internal") 
+
 install.packages("RMySQL",dependencies = T)
 
 Notes: "RMySQL" can be replaced by "swirl" or whatever. The effects are shown below.
