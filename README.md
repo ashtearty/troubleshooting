@@ -1,7 +1,7 @@
 ### Install Packages
-options(repos="http://cloud.r-project.org/") 
-options(download.file.method="internal") 
-install.packages("swirl",dependencies = T)
+>options(repos="http://cloud.r-project.org/") 
+>options(download.file.method="internal") 
+>install.packages("swirl",dependencies = T)
 
 #"swirl" can be changed to "RMySQL" or whatever. The effects are shown below.
 
